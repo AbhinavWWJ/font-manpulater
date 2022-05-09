@@ -1,24 +1,36 @@
-.heading {
-  font-size: 25px;
-  width: 100%;
-  margin: 0px;
-  box-shadow: 5px 5px 5px gray;
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+    box-shadow: 5px 5px 5px rgb(5, 5, 5);
+    font-family: 'Patrick Hand SC',cursive;
+    font-size: bold;
 }
-.note {
-  font-size: 15px;
-  color: black;
+
+.note{
+    font-size: 15px;
+    color: black;
 }
+
 .copy_right_footer {
-  position: fixed;
-  color: aliceblue;
-  bottom: 0;
-  width: 100%;
-  background-color: blanchedalmond;
-  line-height: 3;
-  text-align: center;
+    position: fixed;
+    color: rgb(177, 170, 170);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(59, 57, 57);
+    line-height: 3;
+    text-align: center;
 }
-canvas {
-  border: 5px solid rgb(30, 5, 255);
-  border-radius: 20px;
-  box-shadow: 10px 10px 10px rgb(10, 235, 205);
+
+
+canvas{
+    border: 5px solid rgb(249, 216, 1);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(14, 15, 13);
+
+}
+
+body{
+    font-family: 'Patrick Hand', cursive;
 }
